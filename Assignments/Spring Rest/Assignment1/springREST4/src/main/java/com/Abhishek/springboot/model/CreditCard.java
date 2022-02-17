@@ -1,4 +1,4 @@
-package com.madhu.springboot.model;
+package com.Abhishek.springboot.model;
 
 public class CreditCard 
 {
