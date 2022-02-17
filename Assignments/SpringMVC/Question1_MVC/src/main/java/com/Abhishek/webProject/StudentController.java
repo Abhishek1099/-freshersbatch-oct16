@@ -1,4 +1,4 @@
-package com.Vivek.webProject;
+package com.Abhishek.webProject;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -11,7 +11,7 @@ public class StudentController {
 	@RequestMapping("/")
 	public ModelAndView helloWorld() {
 		System.out.println("model1.....");
-		ModelAndView model = new ModelAndView("index","msg","hello Vivek");
+		ModelAndView model = new ModelAndView("index","msg","hello World");
 		model.addObject("msg2", "Vicky");
 		return model;
 	}
