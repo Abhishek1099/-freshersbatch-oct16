@@ -1,4 +1,4 @@
-package com.madhu.springREST.controllers;
+package com.Abhishek.springREST.controllers;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.madhu.springREST.models.CountryModel;
+import com.Abhishek.springREST.models.CountryModel;
 
 @RestController 
 public class CountryController
