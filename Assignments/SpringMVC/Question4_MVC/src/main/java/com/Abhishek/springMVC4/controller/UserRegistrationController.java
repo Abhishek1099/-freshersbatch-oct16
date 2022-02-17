@@ -1,4 +1,4 @@
-package com.madhu.springMVC4.controller;
+package com.Abhishek.springMVC4.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.madhu.springMVC4.dao.UserDao;
-import com.madhu.springMVC4.model.User;
+import com.Abhishek.springMVC4.dao.UserDao;
+import com.Abhishek.springMVC4.model.User;
 
 @Controller
 public class UserRegistrationController 
