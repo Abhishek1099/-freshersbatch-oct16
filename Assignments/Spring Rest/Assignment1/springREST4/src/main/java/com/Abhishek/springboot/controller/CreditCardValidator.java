@@ -1,4 +1,4 @@
-package com.madhu.springboot.controller;
+package com.Abhishek.springboot.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.madhu.springboot.model.CreditCard;
-import com.madhu.springboot.service.CreditService;
+import com.Abhishek.springboot.model.CreditCard;
+import com.Abhishek.springboot.service.CreditService;
 
 @RestController
 public class CreditCardValidator
