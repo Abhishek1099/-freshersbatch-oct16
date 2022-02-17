@@ -1,4 +1,4 @@
-package com.madhu.springREST7.API.controller;
+package com.Abhishek.springREST7.API.controller;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
