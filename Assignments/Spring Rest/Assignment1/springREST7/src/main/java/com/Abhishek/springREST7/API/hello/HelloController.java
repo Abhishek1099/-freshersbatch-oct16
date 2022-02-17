@@ -1,4 +1,4 @@
-package com.madhu.springREST7.API.hello;
+package com.Abhishek.springREST7.API.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
