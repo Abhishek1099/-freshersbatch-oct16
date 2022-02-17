@@ -1,4 +1,4 @@
-package com.madhu.springMVC4.model;
+package com.Abhishek.springMVC4.model;
 
 public class User 
 {
