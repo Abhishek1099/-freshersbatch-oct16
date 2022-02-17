@@ -1,4 +1,4 @@
-package com.madhu.springboot.Controller;
+package com.Abhishek.springboot.Controller;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
