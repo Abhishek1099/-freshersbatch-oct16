@@ -1,4 +1,4 @@
-package com.madhu.springboot.rest.controller;
+package com.Abhishek.springboot.rest.controller;
 
 import org.springframework.stereotype.Service;
 
