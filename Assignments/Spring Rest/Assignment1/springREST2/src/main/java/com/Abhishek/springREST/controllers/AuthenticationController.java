@@ -1,10 +1,10 @@
-package com.madhu.springREST.controllers;
+package com.Abhishek.springREST.controllers;
 
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.madhu.springREST.userModel.UserModel;
+import com.Abhishek.springREST.userModel.UserModel;
 
 @RestController
 public class AuthenticationController 
